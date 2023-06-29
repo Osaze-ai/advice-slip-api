@@ -1,4 +1,4 @@
-<img src="desktop.png"></img>
+<img src="Screenshot.png"></img>
 
 <h1 align="center">Advice generator app</h1>
 
