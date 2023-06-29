@@ -1,0 +1,114 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;800&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+:root {
+    /* Theme colors  */
+  --firstcolor: hsl(193, 38%, 86%);
+  --secondcolor: hsl(152, 91%, 55%);
+  --thirdcolor: hsl(217, 19%, 38%);
+  --fourthcolor: hsl(217, 19%, 24%);
+  --fifthcolor: hsl(218, 23%, 16%);
+}
+
+/*---------- html body ------- */
+html,
+body {
+  height: 100%;
+  background-color: var(--fifthcolor);
+}
+
+/*----x------ html body -----x-- */
+body {
+  font-size: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.advice-card {
+  background-color: var(--fourthcolor);
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+  text-align: center;
+  max-width: 500px;
+  width: min(500px, 90%);
+  padding: 1.5em 1.4em 0 1.4em;
+  color: #ffff;
+}
+.advice-card {
+  font-family: "Manrope", sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+.advice-card__header {
+  color: var(--secondcolor);
+  font-size: 0.8rem;
+  letter-spacing: 5px;
+}
+.advice-card__p {
+  font-size: 1.70rem;
+  font-weight: 800;
+  color: var(--firstcolor);
+  margin: 1.5em 0;
+}
+.advice-card__p::before {
+  content: open-quote;
+}
+.advice-card__p::after {
+  content: close-quote;
+}
+#next-advice {
+  border: 0;
+}
+#next-advice {
+  width: max-content;
+  align-self: center;
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  background-color: var(--secondcolor);
+  transform: translateY(50%);
+  cursor: pointer;
+}
+#next-advice:hover {
+  box-shadow: 0 0 20px var(--secondcolor);
+}
+#next-advice:active {
+  background-color: var(--secondcolor);
+}
+
+
+@media (hover: hover) {
+  .next-advice:hover {
+    box-shadow: var(--secondcolor);
+    -webkit-box-shadow: var(--secondcolor);
+    -moz-box-shadow: var(--secondcolor);
+    transition: all ease-in-out 0.2s;
+  }
+}
+
+@media screen and (min-width: 667px) {
+  .advice-container {
+    margin-top: 14rem;
+  }
+
+}
+
+.attribution {
+  position: absolute;
+  bottom: 1.5rem;
+  color: #ffff;
+  font-size: 15px;
+  text-align: center;
+}
+
+.attribution a {
+  color: var(--secondcolor);
+}
+
