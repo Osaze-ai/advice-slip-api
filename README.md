@@ -1,6 +1,8 @@
-<img width="1500" alt="Screenshot" src="./Screenshot.png"></>
+<img src="Screenshot.png" alt="Screenshot" width="1500">
 
 <h1 align="center">Advice generator app</h1>
+
+<div align="center">
 
 <div align="center">
   <h3>
