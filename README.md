@@ -4,8 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="
-https://osaze-ai.github.io/advice-slip-api/" color="white">
+    <a href="https://osaze-ai.github.io/advice-slip-api/" color="white">
       Live
     </a>
     <span> | </span>
