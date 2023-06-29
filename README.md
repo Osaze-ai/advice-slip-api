@@ -46,7 +46,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 - Advice Slip API - random quote generator
 
 
-### Mobile Responsivness 
+### Mobile Responsiveness 
 
 | Desktop version                              |               Mobile Version                |
 | -------------------------------------------- | :-----------------------------------------: |
