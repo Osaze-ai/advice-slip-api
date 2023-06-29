@@ -1,15 +1,13 @@
-<img src="Screenshot.png" alt="Screenshot" width="1500">
+<img width="1000" alt="Screenshot" src="https://github.com/Osaze-ai/advice-slip-api/assets/130580788/bdaa2a2f-0463-4e58-9129-07d9f6acd291">
+
 
 <h1 align="center">Advice generator app</h1>
-
-<div align="center">
 
 <div align="center">
   <h3>
     <a href="https://osaze-ai.github.io/advice-slip-api/" color="white">
       Live
     </a>
-  
     <span> | </span>
     <a href="https://www.frontendmentor.io/solutions/advice-generator-using-advice-slip-api-ZbYknW_Ph2">
       Solution
@@ -64,3 +62,4 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 - Frontend Mentor - [@Osaze-ai](https://www.frontendmentor.io/profile/Osaze-ai)
 - LinkedIn - [@Osaze-Tebong](www.linkedin.com/in/osaze-tebong)
+
