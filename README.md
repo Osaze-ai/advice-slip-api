@@ -61,5 +61,5 @@ You can use any tools you like to help you complete the challenge. So if you've 
 ## Author
 
 - Frontend Mentor - [@Osaze-ai](https://www.frontendmentor.io/profile/Osaze-ai)
-- LinkedIn - [@Osaze-Tebong](www.linkedin.com/in/osaze-tebong)
+- LinkedIn - [@Osaze-Tebong](https://www.linkedin.com/in/osaze-tebong)
 
