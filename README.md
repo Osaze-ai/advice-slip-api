@@ -7,7 +7,7 @@
     <a href="https://osaze-ai.github.io/advice-slip-api/" color="white">
       Live
     </a>
-     </div>
+  
     <span> | </span>
     <a href="https://www.frontendmentor.io/solutions/advice-generator-using-advice-slip-api-ZbYknW_Ph2">
       Solution
