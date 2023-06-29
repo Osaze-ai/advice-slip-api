@@ -1,4 +1,4 @@
-<img width="1500" alt="Screenshot" src="./Screenshot.png">
+<img width="1500" alt="Screenshot" src="./Screenshot.png"></>
 
 <h1 align="center">Advice generator app</h1>
 
@@ -7,6 +7,7 @@
     <a href="https://osaze-ai.github.io/advice-slip-api/" color="white">
       Live
     </a>
+     </div>
     <span> | </span>
     <a href="https://www.frontendmentor.io/solutions/advice-generator-using-advice-slip-api-ZbYknW_Ph2">
       Solution
